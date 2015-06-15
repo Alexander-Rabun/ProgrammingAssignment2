@@ -1,4 +1,4 @@
-# This program illustrates how to use R's caching ability to store the results of 
+# This program illustrates the use of R's caching ability to store the results of 
 # the potentially time-consuming matrix inversion operation and retrieve these results 
 # from the cache in lieu of repeating the computation.
 
